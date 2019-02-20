@@ -2,7 +2,7 @@ var config = {
     'development': {
         mysql: {
             // url: 'mysql://jfs05joozh6ed38s:iov4xhon4tlfv73k@onnjomlc4vqc55fw.chr7pe7iynqr.eu-west-1.rds.amazonaws.com:3306/tlp2qtt7fp6qfphm',
-            username: 'divya',
+            username: 'root',
             password: 'hello123',
             database:'cet'
             // host:'onnjomlc4vqc55fw.chr7pe7iynqr.eu-west-1.rds.amazonaws.com',
@@ -15,7 +15,7 @@ var config = {
     'production': {
       mysql: {
         // url: 'mysql://jfs05joozh6ed38s:iov4xhon4tlfv73k@onnjomlc4vqc55fw.chr7pe7iynqr.eu-west-1.rds.amazonaws.com:3306/tlp2qtt7fp6qfphm',
-        username: 'divya',
+        username: 'root',
         password: 'hello123',
         database:'cet'
         // host:'onnjomlc4vqc55fw.chr7pe7iynqr.eu-west-1.rds.amazonaws.com',
